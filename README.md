@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Angeline 👋</h1>
 
- **BSc Computer Science Graduate @ York University (Canada)**  
-Passionate about **full-stack development, problem-solving, and building software that helps people**  
-Currently working on **RUMI — a gentle habit tracker focused on mental well-being**
+ **BSc Computer Science Graduate @ York University, Canada**  
+Passionate about **frontend development, UI/UX design, problem-solving, and building user-focused software**.  
+Currently exploring **web development, software engineering, and projects that combine technology with creativity**.
 
 ---
 
